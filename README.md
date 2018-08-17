@@ -1,2 +1,2 @@
-# Graph Algorithms
-Some basic algorithms from graph theory in python
+# Sample Benders' Decomposition Code
+This has some sample code related to Benders' decomposition.
